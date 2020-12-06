@@ -1,5 +1,5 @@
 {{/*
-  Trigger type: Rregex
+  Trigger type: Regex
   Trigger: ^-n((|ew)b(|ook)m)
   Too many and sometimes generic names will error. Specifying the name here also overwrites previous onces. Many uses, requires message id or message link, otherwise will create a new message and save that as the bookmark.
 */}}
